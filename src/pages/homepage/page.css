@@ -1,0 +1,19 @@
+.firstcontent
+{
+    width: 100%;
+    height: 60vh;
+}
+.firstcontent h1{
+   font-size: 58px;
+}
+.firstcontent h2{
+    font-size: 22px;
+    font-weight:500;
+}
+.backgroundimage
+{
+    width: 100%;
+}
+.backgroundimage img{
+    width: 100%;
+}
